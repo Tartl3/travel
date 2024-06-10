@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: #336699;
+    color: white;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+nav a:hover {
+    background-color: #5588bb;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #336699;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #336699;
+    color: white;
+}

@@ -40,5 +40,6 @@ Embark on your next adventure with Travel. Visit our website, explore the variou
 
 Join the Travel community and make your travel plans easier and more enjoyable than ever before!
 
-Feel free to check out our repository and contribute to the project: Travel on GitHub
+Feel free to check out our repository and contribute to the project: Travel on GitHub.
+
 ps. this all just for college project. well, it look like shit because my friend suck at design. so be kind. i hate them too

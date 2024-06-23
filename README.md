@@ -6,31 +6,31 @@
 <img src="https://github.com/Tartl3/travel/blob/main/Search2.jpg"  width="300">
 </p>
 
-## Travel
+# Travel
 
 ## Travel - Your Gateway to Effortless Bus Ticket Booking
 Welcome to Travel, the web application designed to bring the convenience of bus ticket booking right to your fingertips. Our mission is to simplify the process of purchasing bus tickets, making it as seamless and hassle-free as possible. Whether you're planning a short trip to a nearby city or a long-distance journey, Travel is here to ensure that your ticket booking experience is smooth, efficient, and enjoyable.
 
-# Key Features
+### Key Features
 User-Friendly Interface
 Our intuitive and easy-to-navigate interface ensures that users of all ages can effortlessly browse through available bus routes and schedules. You can quickly find the best options that suit your travel needs without any complications.
 
-# Comprehensive Bus Listings
+### Comprehensive Bus Listings
 Travel offers a wide range of bus options from various operators, giving you the flexibility to choose the one that best fits your schedule and budget. Our extensive database is constantly updated to provide you with the latest information on bus availability, timings, and fares.
 
-# Secure Payment Options
+### Secure Payment Options
 Safety and security are our top priorities. Travel supports multiple secure payment methods, allowing you to book your tickets with confidence. Whether you prefer using credit cards, debit cards, or digital wallets, our platform ensures that your transactions are protected.
 
-# Real-Time Seat Selection
+### Real-Time Seat Selection
 With Travel, you can view and select your preferred seats in real-time. Our seat selection feature provides a clear view of available seats, enabling you to choose the ones that offer the most comfort for your journey.
 
-# Instant Booking Confirmation
+### Instant Booking Confirmation
 Say goodbye to long waiting times. Once you've completed your booking, you will receive an instant confirmation along with your e-ticket. This ensures that you have all the necessary details at your disposal, right away.
 
-# Customer Support
+### Customer Support
 Our dedicated customer support team is always ready to assist you with any queries or issues you may encounter. We are committed to providing exceptional service to make your travel experience as pleasant as possible.
 
-# Why Choose Travel?
+### Why Choose Travel?
 Convenience: Book your bus tickets anytime, anywhere, using any device with internet access.
 Variety: Choose from a wide range of bus operators and routes to find the best option for your journey.
 Speed: Enjoy a quick and seamless booking process with instant confirmation and e-ticket delivery.

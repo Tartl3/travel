@@ -8,58 +8,37 @@
 
 ## Travel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Travel - Your Gateway to Effortless Bus Ticket Booking
+Welcome to Travel, the web application designed to bring the convenience of bus ticket booking right to your fingertips. Our mission is to simplify the process of purchasing bus tickets, making it as seamless and hassle-free as possible. Whether you're planning a short trip to a nearby city or a long-distance journey, Travel is here to ensure that your ticket booking experience is smooth, efficient, and enjoyable.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Key Features
+User-Friendly Interface
+Our intuitive and easy-to-navigate interface ensures that users of all ages can effortlessly browse through available bus routes and schedules. You can quickly find the best options that suit your travel needs without any complications.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# Comprehensive Bus Listings
+Travel offers a wide range of bus options from various operators, giving you the flexibility to choose the one that best fits your schedule and budget. Our extensive database is constantly updated to provide you with the latest information on bus availability, timings, and fares.
 
-## Learning Laravel
+# Secure Payment Options
+Safety and security are our top priorities. Travel supports multiple secure payment methods, allowing you to book your tickets with confidence. Whether you prefer using credit cards, debit cards, or digital wallets, our platform ensures that your transactions are protected.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+# Real-Time Seat Selection
+With Travel, you can view and select your preferred seats in real-time. Our seat selection feature provides a clear view of available seats, enabling you to choose the ones that offer the most comfort for your journey.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+# Instant Booking Confirmation
+Say goodbye to long waiting times. Once you've completed your booking, you will receive an instant confirmation along with your e-ticket. This ensures that you have all the necessary details at your disposal, right away.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# Customer Support
+Our dedicated customer support team is always ready to assist you with any queries or issues you may encounter. We are committed to providing exceptional service to make your travel experience as pleasant as possible.
 
-## Laravel Sponsors
+# Why Choose Travel?
+Convenience: Book your bus tickets anytime, anywhere, using any device with internet access.
+Variety: Choose from a wide range of bus operators and routes to find the best option for your journey.
+Speed: Enjoy a quick and seamless booking process with instant confirmation and e-ticket delivery.
+Security: Rest assured that your personal and payment information is protected with the highest security standards.
+Get Started Today!
+Embark on your next adventure with Travel. Visit our website, explore the various routes and schedules, and book your bus tickets in just a few clicks. Experience the ultimate convenience of bus ticket booking, all in the palm of your hand.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Join the Travel community and make your travel plans easier and more enjoyable than ever before!
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Feel free to check out our repository and contribute to the project: Travel on GitHub
+ps. this all just for college project. well, it look like shit because my friend suck at design. so be kind. i hate them too
